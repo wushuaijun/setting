@@ -1,0 +1,5 @@
+<application>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="scrollToFirst" value="false" />
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<application>
+  <component name="JavaIdeCodeInsightSettings">
+    <included-static-names>
+      <name>java.lang.String</name>
+    </included-static-names>
+  </component>
+</application>
