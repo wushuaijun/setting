@@ -1,5 +1,5 @@
 <templateSet group="Custom">
-  <template name="getb" value="private $NAME$ get$NAME$() {&#10;  return ServiceFactory.getService($NAME$.class);&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="getb" value="private $NAME$ get$NAME$() {&#10;  return ServiceFactory.getService($NAME$.class);&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
